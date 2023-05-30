@@ -1,6 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/xcode,swift,vapor
-# Edit at https://www.toptal.com/developers/gitignore?templates=xcode,swift,vapor
-
 ### Swift ###
 # Xcode
 #
@@ -85,15 +82,6 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-### Vapor ###
-Config/secrets
-
-### Vapor Patch ###
-Packages
-xcuserdata
-*.xcodeproj
-
-
 ### Xcode ###
 
 ## Xcode 8 and earlier
@@ -106,5 +94,3 @@ xcuserdata
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
-
-# End of https://www.toptal.com/developers/gitignore/api/xcode,swift,vapor
